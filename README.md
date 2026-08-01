@@ -1,5 +1,7 @@
 # The FreeCuli Edge Smart Kitchen Standard
 
+*_Pioneered by [Yemek AI Engineering](https://yemekyarismasi.com/yemek-ai) as a core standard of the APSNY Ecosystem._*
+
 > *Zero cloud. Zero cost. Absolute hands-free freedom. Absolute privacy. Welcome to the era of FreeCuli!*
 
 ---
