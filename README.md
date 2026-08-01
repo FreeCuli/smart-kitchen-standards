@@ -50,8 +50,8 @@ For traditional smart device manufacturers, every active device sold means a lif
 | --- | --- | --- |
 | **Unit Chip Cost (BOM)** | Low-end Wi-Fi Chip (~$0.50 - $1.00) | Entry/Mid-Range NPU Chip (~$1.50 - $4.00) |
 | **Lifetime Server/Cloud Bills** | Escalating monthly costs per user | $0 (Zero) |
-| **Software R&D Budget** | Million-dollar custom assistant development cost | Minimal cost via open-source ready infrastructure |
-| **Third-Party License Dependency** | Continuous royalties for external voice assistants | Zero license dependency |
+| **Software R&D Budget** | Million-dollar custom assistant development cost | Fraction of the cost via ready-to-deploy FreeCuli Architecture |
+| **Third-Party License Dependency** | Continuous royalties & API fees for external voice assistants | Predictable, one-time Commercial License (No recurring per-query royalties) |
 | **Maintenance & API Update Load** | Burden of keeping servers running and optimized | Independent lifetime operation on-device (Zero-Maintenance) |
 
 ### Scale Balance and Financial ROI
