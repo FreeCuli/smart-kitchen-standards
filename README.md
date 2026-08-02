@@ -4,6 +4,8 @@
 
 > *Zero cloud. Zero cost. Absolute hands-free freedom. Absolute privacy. Welcome to the era of FreeCuli!*
 
+📖 **[Read our Official Manifesto on Medium: The World's First Zero-Cloud Smart Kitchen Standard](https://medium.com/@oytunciba/the-worlds-first-zero-cloud-smart-kitchen-standard-freeculi-3fdacc0678cb)**
+
 ---
 
 ## Introduction: The Paradigm Shift in Smart Kitchen Technology
