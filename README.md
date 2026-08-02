@@ -95,5 +95,5 @@ We invite global appliance manufacturers, semiconductor engineers, and the open-
 ---
 
 > © 2026 FreeCuli. All rights reserved. 
-> This document is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+> This document is licensed under [CC BY-SA 4.0](./LICENSE).
 > The FreeCuli Edge Smart Kitchen Standard is engineered to comply with GDPR Article 25 (Data protection by design and by default) and KVKK Article 4.
