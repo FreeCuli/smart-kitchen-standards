@@ -84,4 +84,4 @@
 **Headline:** Power the Next Generation of Hardware
 **Body:** Don't let compounding cloud costs and connectivity issues break your brand's consumer experience.
 **CTA:** Integrate the FreeCuli Edge AI SDK today.
-**Contact:** [info@yemekyarismasi.com] | [smartkitchenassistant.com] | [GitHub Repository]
+**Contact:** [info@freeculi.com](mailto:info@freeculi.com) | [freeculi.com](https://freeculi.com) | [smartkitchenassistant.com](https://smartkitchenassistant.com) | [GitHub](https://github.com/FreeCuli)
