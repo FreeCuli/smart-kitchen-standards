@@ -18,7 +18,7 @@ You **MUST** obtain a **Commercial Exemption License** from the Yemek AI Enginee
 
 ### Commercial License Benefits:
 1. **License Contamination Shield:** The commercial license acts as a waiver, removing the copyleft obligations of CERN-OHL-S and AGPL-3.0 from your proprietary components. Your trade secrets stay secret.
-2. **Certification & Branding:** You gain the legal right to brand your product with the official `FreeCuli Zero-Cloud Certified` and `HFSCA Compliant` badges, signaling ultimate privacy to your consumers.
+2. **Certification, Branding & Trademark Separation:** While the baseline architecture is free under CERN-OHL-S, the trademark is not. You gain the exclusive legal right to brand your product with the official `FreeCuli Certified: Zero-Cloud` and `HFSCA Compliant` badges, signaling ultimate privacy to your consumers. (The open-source license does NOT grant trademark usage rights; only the commercial B2B agreement does).
 3. **APSNY Ecosystem Integration:** Your devices become officially verified nodes within the APSNY smart kitchen ecosystem.
 
 ### How to Apply
