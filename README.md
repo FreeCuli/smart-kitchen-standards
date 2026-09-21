@@ -4,6 +4,9 @@
 
 > *Zero cloud. Zero cost. Absolute hands-free freedom. Absolute privacy. Welcome to the era of FreeCuli!*
 
+> [!NOTE]
+> **ZC-CORE Reference Implementation:** This repository houses the `ZC-Home (Smart Kitchen)` operational profile and reference implementation. For the universal hardware security methodology governing all Server-Independent Edge AI devices (Medical, Defense, Industrial), please refer to the core [FreeCuli ZC-CORE Hardware Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture) repository.
+
 📖 **[Read our Official Manifesto on Medium: The World's First Zero-Cloud Smart Kitchen Standard](https://medium.com/@oytunciba/the-worlds-first-zero-cloud-smart-kitchen-standard-freeculi-3fdacc0678cb)**
 
 ---
