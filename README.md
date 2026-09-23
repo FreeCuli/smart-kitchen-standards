@@ -7,7 +7,7 @@
 > *Zero cloud. Zero cost. Absolute hands-free freedom. Absolute privacy. Welcome to the era of FreeCuli!*
 
 > [!NOTE]
-> **Universal ZC-CORE v3.0 Framework:** This repository houses the original `HFSCA (Smart Kitchen)` operational profile. HFSCA is an application-layer implementation of the universal **ZC-CORE v3.0 Methodology**, which governs all Server-Independent Edge AI and AIoT devices (Medical, Defense, Industrial, Smart Home). For the strict hardware security rules, Methodology Invariants (DNA), and Conformance Test Specifications (CTS), please refer to the core [FreeCuli ZC-CORE Hardware Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture) repository.
+> **Universal ZC-CORE v3.1.0 Framework:** This repository houses the original `HFSCA (Smart Kitchen)` operational profile. HFSCA is an application-layer implementation of the universal **ZC-CORE v3.1.0 Methodology**, which governs all Server-Independent Edge AI and AIoT devices (Medical, Defense, Industrial, Smart Home). For the strict hardware security rules, Methodology Invariants (DNA), and Conformance Test Specifications (CTS), please refer to the core [FreeCuli ZC-CORE Hardware Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture) repository.
 
 📖 **[Read our Official Manifesto on Medium: The World's First Zero-Cloud Smart Kitchen Standard](https://medium.com/@oytunciba/the-worlds-first-zero-cloud-smart-kitchen-standard-freeculi-3fdacc0678cb)**
 
